@@ -1,0 +1,28 @@
+/*
+Kolom komentar didalam file CSS
+tidak akan tampil pada halaman web
+*/
+
+h1{
+	font-size: 100px;
+	color: skyblue; /*properti warna dengan nama warna*/
+	text-decoration: overline;
+}
+
+h2{
+	font-size: 50px;
+	color: #9c2300; /*properti warna dengan hexcode*/
+	text-decoration: line-through;
+}
+
+h3{
+	font-size: 25px;
+	color: rgb(115, 80, 212); /*properti warna dengan komposisi rgb*/
+	text-decoration: underline;
+}
+
+p{
+	font-family: sans-serif;
+	text-align: justify;
+	line-height: 30px;
+}
